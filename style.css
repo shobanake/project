@@ -401,6 +401,7 @@ h2.foot {
 }
 
 @media (max-width: 767px){
+	
     .banner {
 
         padding: 200px 0;
@@ -429,7 +430,12 @@ h2.foot {
     .exp2 {
         margin-left: 0px;
     }
-
+button.signupbtn {
+    padding: 10px 118px 10px 151px;
+    background-color: #6174B9;
+    color: #fff;
+    font-weight: 600;
+}
     h2.foot {
         float: none;
         color: #fff;
